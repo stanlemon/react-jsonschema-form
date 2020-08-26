@@ -82,7 +82,7 @@
     "react": "^16.8.6",
     "react-codemirror2": "^4.1.0",
     "react-dom": "^16.8.6",
-    "react-monaco-editor": "^0.26.2",
+    "react-monaco-editor": "^0.40.0",
     "react-portal": "^4.2.0",
     "react-test-renderer": "^16.13.1",
     "react-transform-catch-errors": "^1.0.0",
